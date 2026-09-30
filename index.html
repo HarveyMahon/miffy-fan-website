@@ -1,0 +1,86 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Miffy Fan Site</title>
+  <meta name="description" content="A fan gallery of Miffy plushies and memorabilia, with fun facts about how Miffy was created.">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Fredoka:wght@500;600&family=Nunito:wght@400;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header class="site-header">
+    <nav class="nav">
+      <a class="brand" href="#top">Miffy Fan Site</a>
+      <div class="nav-links">
+        <a href="#gallery">Gallery</a>
+        <a href="#about">About Miffy</a>
+        <a href="#credits">Credits</a>
+      </div>
+    </nav>
+    <div class="hero" id="top">
+      <p class="eyebrow">A little collection</p>
+      <h1>Miffy plushies &amp; memorabilia</h1>
+      <p class="lede">Soft toys, stationery, statues and sightings of everyone's favourite little rabbit.</p>
+    </div>
+  </header>
+
+  <main>
+    <section class="favourites" aria-labelledby="fav-title">
+      <h2 id="fav-title">Favourites</h2>
+      <div class="fav-row" id="fav-row"></div>
+    </section>
+
+    <section class="gallery" id="gallery" aria-labelledby="gallery-title">
+      <div class="gallery-head">
+        <h2 id="gallery-title">The collection</h2>
+        <div class="controls">
+          <div class="chips" role="group" aria-label="Filter by category" id="chips"></div>
+          <label class="search">
+            <span class="visually-hidden">Search by name</span>
+            <input type="search" id="search" placeholder="Search by name…" autocomplete="off">
+          </label>
+        </div>
+      </div>
+      <p class="count" id="count" aria-live="polite"></p>
+      <div class="grid" id="grid"></div>
+    </section>
+
+    <section class="about" id="about" aria-labelledby="about-title">
+      <h2 id="about-title">About Miffy</h2>
+      <p class="about-intro">Miffy has been hopping through picture books for over seventy years. A few fun facts about how she came to be:</p>
+      <ol class="facts">
+        <li><strong>A seaside bedtime story.</strong> Dutch artist Dick Bruna first drew her in 1955, after a holiday in Egmond aan Zee where he had been telling his young son stories about a little rabbit they'd seen hopping in the dunes.</li>
+        <li><strong>Her real name is nijntje.</strong> In Dutch she's called <em>nijntje</em> (roughly "nine-cha"), a shortening of <em>konijntje</em>, which means "little rabbit".</li>
+        <li><strong>She started out floppy.</strong> In the first book her ears flopped and she looked more like a fluffy toy. By 1963 Bruna had reworked her into the square-format books, with the upright ears and round face she's known for today.</li>
+        <li><strong>Always looking at you.</strong> Bruna drew Miffy facing straight out of the page, so young readers feel she is talking directly to them.</li>
+        <li><strong>A tiny paintbox.</strong> Bruna stuck to a handful of bold, flat colours (red, yellow, blue, green, plus a little brown and grey) with thick black outlines, and was famous for cutting away every line he didn't need.</li>
+        <li><strong>A mouth that's just a cross.</strong> Two short crossed lines do all the work, and readers read her mood into them.</li>
+        <li><strong>Twelve pages, four lines.</strong> Each classic Miffy book has twelve pictures, each paired with four lines of rhyming verse.</li>
+        <li><strong>Miffy was a boy at first.</strong> Early on the character wasn't clearly a girl. That changed around 1970, when Bruna drew her in a dress.</li>
+        <li><strong>A worldwide bunny.</strong> There are more than thirty Miffy books, translated into over fifty languages, with tens of millions of copies sold.</li>
+        <li><strong>Utrecht's favourite resident.</strong> Bruna's home city has a Miffy museum, a Miffy statue and even pedestrian traffic lights with Miffy as the walking figure. In later life Bruna joked that he'd gone from Miffy's father to her grandfather.</li>
+      </ol>
+    </section>
+
+    <section class="credits" id="credits" aria-labelledby="credits-title">
+      <h2 id="credits-title">Image credits</h2>
+      <p>All photos come from Wikimedia Commons and are used under the licences listed. Miffy is a character created by Dick Bruna. This is a non-commercial fan site with no connection to Mercis or the official Miffy brand.</p>
+      <ul class="credit-list" id="credit-list"></ul>
+    </section>
+  </main>
+
+  <footer class="site-footer">
+    <p>Made with love for Miffy · <a href="#top">Back to top</a></p>
+  </footer>
+
+  <dialog class="modal" id="modal" aria-labelledby="modal-title">
+    <button class="modal-close" id="modal-close" aria-label="Close">×</button>
+    <div class="modal-body" id="modal-body"></div>
+  </dialog>
+
+  <script src="script.js"></script>
+</body>
+</html>

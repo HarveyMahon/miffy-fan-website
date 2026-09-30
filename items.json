@@ -1,0 +1,334 @@
+[
+  {
+    "id": "giant-dutch-miffy",
+    "name": "Giant Miffy in Dutch costume",
+    "category": "Plushies",
+    "image": "giant-dutch-miffy.jpg",
+    "credit": {
+      "author": "DaneGeld",
+      "licence": "CC BY-SA 4.0",
+      "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Giant_Miffy_outside_AKO_(Eindhoven_Airport,_November_22,_2017)_(cropped).jpg",
+      "download": "https://commons.wikimedia.org/wiki/Special:FilePath/Giant%20Miffy%20outside%20AKO%20(Eindhoven%20Airport%2C%20November%2022%2C%202017)%20(cropped).jpg?width=1200"
+    },
+    "year": "2017",
+    "origin": "Eindhoven Airport, Netherlands",
+    "size": "Giant (shop display)",
+    "note": "A huge Miffy doll in a traditional Dutch outfit, complete with apron and a tulip, greeting travellers outside a bookshop.",
+    "favourite": true
+  },
+  {
+    "id": "shop-window-amsterdam",
+    "name": "Plushies in the Miffy shop window",
+    "category": "Plushies",
+    "image": "shop-window-amsterdam.jpg",
+    "credit": {
+      "author": "CvandenHil",
+      "licence": "CC BY-SA 2.5",
+      "licenceUrl": "https://creativecommons.org/licenses/by-sa/2.5",
+      "source": "https://commons.wikimedia.org/wiki/File:Nijntje_Amsterdam,_Toyshop_Beethovenstraat.jpg",
+      "download": "https://commons.wikimedia.org/wiki/Special:FilePath/Nijntje%20Amsterdam%2C%20Toyshop%20Beethovenstraat.jpg?width=1200"
+    },
+    "year": "2006",
+    "origin": "De winkel van nijntje, Amsterdam",
+    "size": "Assorted",
+    "note": "A spring display of Miffy plushies surrounded by flowers in the window of Amsterdam's Miffy shop.",
+    "favourite": true
+  },
+  {
+    "id": "miffy-shop-front",
+    "name": "The Miffy shop, Amsterdam",
+    "category": "Plushies",
+    "image": "miffy-shop-front.jpg",
+    "credit": {
+      "author": "Gonnie",
+      "licence": "Public domain",
+      "licenceUrl": "",
+      "source": "https://commons.wikimedia.org/wiki/File:Winkel_van_nijntje_amsterdam.jpg",
+      "download": "https://commons.wikimedia.org/wiki/Special:FilePath/Winkel%20van%20nijntje%20amsterdam.jpg?width=1200"
+    },
+    "year": "2009",
+    "origin": "De winkel van nijntje, Amsterdam",
+    "size": "Assorted",
+    "note": "The front of the shop, with a big Miffy plush keeping watch in the window.",
+    "favourite": false
+  },
+  {
+    "id": "classic-plush",
+    "name": "Classic Miffy plush",
+    "category": "Plushies",
+    "image": "",
+    "credit": null,
+    "link": "https://miffy.com",
+    "year": "",
+    "origin": "Your collection",
+    "size": "Small",
+    "note": "Placeholder: add a photo of your own classic Miffy plush here.",
+    "favourite": false
+  },
+  {
+    "id": "dress-plush",
+    "name": "Miffy in her orange dress",
+    "category": "Plushies",
+    "image": "",
+    "credit": null,
+    "link": "https://miffy.com",
+    "year": "",
+    "origin": "Your collection",
+    "size": "Medium",
+    "note": "Placeholder: swap in a photo of your favourite dressed-up Miffy.",
+    "favourite": false
+  },
+  {
+    "id": "book-fair-figure",
+    "name": "Miffy at the Frankfurt Book Fair",
+    "category": "Memorabilia",
+    "image": "book-fair-figure.jpg",
+    "credit": {
+      "author": "JCS",
+      "licence": "CC BY 3.0",
+      "licenceUrl": "https://creativecommons.org/licenses/by/3.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Frankfurter_Buchmesse_2016_-_Miffy.JPG",
+      "download": "https://commons.wikimedia.org/wiki/Special:FilePath/Frankfurter%20Buchmesse%202016%20-%20Miffy.JPG?width=1200"
+    },
+    "year": "2016",
+    "origin": "Frankfurt, Germany",
+    "size": "Life-size figure",
+    "note": "A big Miffy figure on a pedestal, welcoming visitors to the book fair stand.",
+    "favourite": true
+  },
+  {
+    "id": "miffy-pens",
+    "name": "Colourful Miffy pens",
+    "category": "Memorabilia",
+    "image": "miffy-pens.jpg",
+    "credit": {
+      "author": "Amy Yu",
+      "licence": "CC BY 2.0",
+      "licenceUrl": "https://creativecommons.org/licenses/by/2.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Miffy_pens_three.jpg",
+      "download": "https://commons.wikimedia.org/wiki/Special:FilePath/Miffy%20pens%20three.jpg?width=1200"
+    },
+    "year": "2005",
+    "origin": "Stationery",
+    "size": "Pen-sized",
+    "note": "A rainbow set of Miffy pens: purple, pink and blue.",
+    "favourite": false
+  },
+  {
+    "id": "bento-fork",
+    "name": "Miffy bento fork",
+    "category": "Memorabilia",
+    "image": "bento-fork.jpg",
+    "credit": {
+      "author": "gamene",
+      "licence": "CC BY 2.0",
+      "licenceUrl": "https://creativecommons.org/licenses/by/2.0",
+      "source": "https://commons.wikimedia.org/wiki/File:New_miffy_fork_bento_(4837088717).jpg",
+      "download": "https://commons.wikimedia.org/wiki/Special:FilePath/New%20miffy%20fork%20bento%20(4837088717).jpg?width=1200"
+    },
+    "year": "2010",
+    "origin": "Tableware",
+    "size": "Child-sized",
+    "note": "A little Miffy fork tucked into a colourful packed lunch.",
+    "favourite": false
+  },
+  {
+    "id": "miffy-tshirt",
+    "name": "Miffy T-shirt",
+    "category": "Memorabilia",
+    "image": "miffy-tshirt.jpg",
+    "credit": {
+      "author": "Peachyeung316",
+      "licence": "CC BY-SA 4.0",
+      "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:A_Miffy_T-shirt_and_Black_Short_pant.jpg",
+      "download": "https://commons.wikimedia.org/wiki/Special:FilePath/A%20Miffy%20T-shirt%20and%20Black%20Short%20pant.jpg?width=1200"
+    },
+    "year": "2022",
+    "origin": "Clothing",
+    "size": "Adult",
+    "note": "A Miffy print T-shirt paired with a Miffy-patterned overshirt.",
+    "favourite": false
+  },
+  {
+    "id": "gronings-books",
+    "name": "Miffy books in Dutch and Gronings",
+    "category": "Memorabilia",
+    "image": "gronings-books.jpg",
+    "credit": {
+      "author": "Donald Trung Quoc Don",
+      "licence": "CC BY-SA 4.0",
+      "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Miffy_books_in_Dutch_and_Gronings_(Low-Saxon),_Oude_Pekela_(2019).jpg",
+      "download": "https://commons.wikimedia.org/wiki/Special:FilePath/Miffy%20books%20in%20Dutch%20and%20Gronings%20(Low-Saxon)%2C%20Oude%20Pekela%20(2019).jpg?width=1200"
+    },
+    "year": "2019",
+    "origin": "Oude Pekela, Netherlands",
+    "size": "Picture book",
+    "note": "The same Miffy story twice: once in Dutch and once in the regional Gronings dialect.",
+    "favourite": false
+  },
+  {
+    "id": "tactile-books",
+    "name": "Tactile picture books",
+    "category": "Memorabilia",
+    "image": "tactile-books.jpg",
+    "credit": {
+      "author": "Anneli Salo",
+      "licence": "CC BY-SA 3.0",
+      "licenceUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Tactile_picture_books_17_Tactus-kirjoja_C.jpg",
+      "download": "https://commons.wikimedia.org/wiki/Special:FilePath/Tactile%20picture%20books%2017%20Tactus-kirjoja%20C.jpg?width=1200"
+    },
+    "year": "2001",
+    "origin": "Montreuil Children's Book Fair, France",
+    "size": "Picture book",
+    "note": "Touch-and-feel picture books, including Miffy, made for children with visual impairments.",
+    "favourite": false
+  },
+  {
+    "id": "kiddie-ride",
+    "name": "Miffy aeroplane kiddie ride",
+    "category": "Memorabilia",
+    "image": "kiddie-ride.jpg",
+    "credit": {
+      "author": "Donald Trung Quoc Don",
+      "licence": "CC BY-SA 4.0",
+      "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Miffy_kiddie_ride,_The_Hague_(2018).jpg",
+      "download": "https://commons.wikimedia.org/wiki/Special:FilePath/Miffy%20kiddie%20ride%2C%20The%20Hague%20(2018).jpg?width=1200"
+    },
+    "year": "2018",
+    "origin": "The Hague, Netherlands",
+    "size": "Ride-on",
+    "note": "Miffy piloting a bright red aeroplane ride outside a shop.",
+    "favourite": true
+  },
+  {
+    "id": "tour-de-france",
+    "name": "Tour de France Miffy cars",
+    "category": "Memorabilia",
+    "image": "tour-de-france.jpg",
+    "credit": {
+      "author": "StagiaireMGIMO",
+      "licence": "CC BY-SA 4.0",
+      "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Miffy.jpg",
+      "download": "https://commons.wikimedia.org/wiki/Special:FilePath/Miffy.jpg?width=1200"
+    },
+    "year": "2015",
+    "origin": "Utrecht, Netherlands",
+    "size": "Car-roof sized",
+    "note": "When the 2015 Tour de France started in Utrecht, Miffy rode along on top of the promotional cars.",
+    "favourite": false
+  },
+  {
+    "id": "birthday-exhibition",
+    "name": "Happy Birthday Miffy exhibition",
+    "category": "Memorabilia",
+    "image": "birthday-exhibition.jpg",
+    "credit": {
+      "author": "Uri Baruchin",
+      "licence": "CC BY 2.0",
+      "licenceUrl": "https://creativecommons.org/licenses/by/2.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Miffy%27s_birthday.jpg",
+      "download": "https://commons.wikimedia.org/wiki/Special:FilePath/Miffy's%20birthday.jpg?width=1200"
+    },
+    "year": "2007",
+    "origin": "V&A Museum of Childhood, London",
+    "size": "Exhibition",
+    "note": "A birthday-party scene from the museum's Miffy exhibition, bunting and all.",
+    "favourite": false
+  },
+  {
+    "id": "mariaplaats-statue",
+    "name": "Miffy statue, Utrecht",
+    "category": "Memorabilia",
+    "image": "mariaplaats-statue.jpg",
+    "credit": {
+      "author": "FaceMePLS",
+      "licence": "CC BY 2.0",
+      "licenceUrl": "https://creativecommons.org/licenses/by/2.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Nijntje_-_Mariaplaats_Utrecht.jpg",
+      "download": "https://commons.wikimedia.org/wiki/Special:FilePath/Nijntje%20-%20Mariaplaats%20Utrecht.jpg?width=1200"
+    },
+    "year": "2018",
+    "origin": "Utrecht, Netherlands",
+    "size": "Statue",
+    "note": "The Miffy statue in Utrecht, the city where Dick Bruna lived and worked.",
+    "favourite": false
+  },
+  {
+    "id": "traffic-light",
+    "name": "Miffy traffic light",
+    "category": "Memorabilia",
+    "image": "traffic-light.jpg",
+    "credit": {
+      "author": "Charlie Foxtrot66",
+      "licence": "CC BY-SA 4.0",
+      "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Nijntje_stoplicht-Utrecht-2020.jpg",
+      "download": "https://commons.wikimedia.org/wiki/Special:FilePath/Nijntje%20stoplicht-Utrecht-2020.jpg?width=1200"
+    },
+    "year": "2020",
+    "origin": "Utrecht, Netherlands",
+    "size": "Street furniture",
+    "note": "Pedestrian lights in Utrecht where the little walking figure is Miffy herself.",
+    "favourite": true
+  },
+  {
+    "id": "miffy-museum",
+    "name": "The Miffy Museum",
+    "category": "Memorabilia",
+    "image": "miffy-museum.jpg",
+    "credit": {
+      "author": "Steven Lek",
+      "licence": "CC BY-SA 4.0",
+      "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Miffy_Museum_Nijntje_Museum_Utrecht.jpg",
+      "download": "https://commons.wikimedia.org/wiki/Special:FilePath/Miffy%20Museum%20Nijntje%20Museum%20Utrecht.jpg?width=1200"
+    },
+    "year": "2018",
+    "origin": "Utrecht, Netherlands",
+    "size": "A whole museum",
+    "note": "The nijntje museum in Utrecht, a museum built just for young Miffy fans.",
+    "favourite": false
+  },
+  {
+    "id": "keukenhof",
+    "name": "Miffy at Keukenhof gardens",
+    "category": "Memorabilia",
+    "image": "keukenhof.jpg",
+    "credit": {
+      "author": "Alf van Beem",
+      "licence": "Public domain",
+      "licenceUrl": "",
+      "source": "https://commons.wikimedia.org/wiki/File:Nijntje_op_de_Keukenhof_foto_1.JPG",
+      "download": "https://commons.wikimedia.org/wiki/Special:FilePath/Nijntje%20op%20de%20Keukenhof%20foto%201.JPG?width=1200"
+    },
+    "year": "2018",
+    "origin": "Keukenhof, Lisse, Netherlands",
+    "size": "Garden figure",
+    "note": "Miffy figures hiding among the spring flowers at the famous tulip gardens.",
+    "favourite": false
+  },
+  {
+    "id": "street-art",
+    "name": "Miffy street art heart",
+    "category": "Memorabilia",
+    "image": "street-art.jpg",
+    "credit": {
+      "author": "Andy Li",
+      "licence": "CC0",
+      "licenceUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "source": "https://commons.wikimedia.org/wiki/File:Miffy_street_art,_Lange_Nieuwstraat,_Utrecht_2024-11-28.jpg",
+      "download": "https://commons.wikimedia.org/wiki/Special:FilePath/Miffy%20street%20art%2C%20Lange%20Nieuwstraat%2C%20Utrecht%202024-11-28.jpg?width=1200"
+    },
+    "year": "2024",
+    "origin": "Utrecht, Netherlands",
+    "size": "Small wall piece",
+    "note": "A tiny Miffy in a heart, spotted on a brick wall in Utrecht.",
+    "favourite": false
+  }
+]
